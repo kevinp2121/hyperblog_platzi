@@ -1,5 +1,3 @@
-este es el intento de aprender git 
+practicando con git 
 
-mucho mejor que antes
-
-vamos bien ajajja
+vamos a realizar commits
